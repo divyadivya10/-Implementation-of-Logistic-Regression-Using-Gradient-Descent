@@ -102,7 +102,8 @@ print(y_prednew)
 xnew= np.array([[0,0,0,0,0,2,8,2,0,0,1,0]])
 y_prednew=predict(theta,xnew)
 print(y_prednew)
-
+print("Name:Divya R")
+print("RegNo:212222040040")
 ```
 
 ## Output:
@@ -124,7 +125,8 @@ print(y_prednew)
 ## y_prednew
 ![image](https://github.com/user-attachments/assets/00ac94c8-150b-4f2b-9ac0-3759a24babfc)
 ## y_prednew
-![image](https://github.com/user-attachments/assets/ec1975d4-3442-4cfe-acb3-1573836b6624)
+![image](https://github.com/user-attachments/assets/86806090-cf45-4553-afde-a8870d5fe762)
+
 
 
 
